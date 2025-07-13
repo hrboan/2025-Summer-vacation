@@ -23,7 +23,7 @@
 <br>
    
 ### **📌 5주차 (08.04 ~ 08.10)**
-###### **[Visual Studio 환경 익히기 + API 실습 시작]**   Visual Studio 설치 및 설정, C언어로 콘솔 프로그램 제작, Window API 이해, 실습  [🔗Week5 학습내용 보기](./Week5.md)
+###### **[Visual Studio 환경 익히기 + API 실습 시작]**   Visual Studio 설치 및 설정, 콘솔 프로그램 제작, Window API 이해, 실습  [🔗Week5 학습내용 보기](./Week5.md)
 <br>
 
 ### **📌 6주차 (08.11 ~ 08.17)**
